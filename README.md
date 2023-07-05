@@ -14,3 +14,6 @@ Netflix is an American subscription video on-demand over-the-top streaming servi
 
 ## Visualization
 
+Tableau: [Netflix Movies & TV Shows Dashboard](https://public.tableau.com/app/profile/ahmed6065/viz/NetflixDashboard_16885955096230/Netflix?publish=yes)
+
+![Netflix](Netflix.png)
